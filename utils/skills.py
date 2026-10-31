@@ -1,0 +1,26 @@
+
+SKILLS = [
+    "Python",
+    "Java",
+    "C++",
+    "SQL",
+    "MySQL",
+    "AWS",
+    "Azure",
+    "Google Cloud",
+    "Docker",
+    "Kubernetes",
+    "Jenkins",
+    "Git",
+    "Linux",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Machine Learning",
+    "Deep Learning",
+    "NLP",
+    "LangChain",
+    "Generative AI",
+    "Communication",
+    "Problem Solving"
+]

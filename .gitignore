@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.venv/
+
+# API keys and environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Uploaded resumes and private files
+uploads/
+*.pdf
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
